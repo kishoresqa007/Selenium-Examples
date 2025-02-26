@@ -24,6 +24,10 @@ railway- gurantee letters
 
 payer- agreement- tpa
 
+All the above featurea re applicable for split billing and other scenarios too
+
+this can be done in aircus and very fast to validate the billing logic.
+
 
 
 
